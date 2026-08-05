@@ -27,4 +27,6 @@ pip install -r requirements.txt
 python main.py
 
 ## Project Screenshot
+![Screenshot1](color.png)
+![Screeenshot2](red.png)
 
